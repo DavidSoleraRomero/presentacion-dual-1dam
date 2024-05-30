@@ -1,4 +1,4 @@
-# Periodo Dual 1º DAM - Aliqindoi
+# Periodo Dual de 1º de DAM - Aliqindoi
 
 Este repositorio contiene material relacionado con el periodo dual del primer curso del ciclo formativo de Desarrollo de Aplicaciones Multiplataforma (DAM) en la empresa Aliqindoi.
 
